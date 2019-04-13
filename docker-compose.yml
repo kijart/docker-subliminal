@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  subliminal:
+    image: "kijart/subliminal"
+    volumes:
+      - .:/subs
