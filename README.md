@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kijart/docker-subliminal.svg?branch=develop)](https://travis-ci.org/kijart/docker-subliminal)
+
 # Subliminal
 
 Run subliminal inside docker.
