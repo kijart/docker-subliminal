@@ -1,6 +1,10 @@
+[![Build Status](https://travis-ci.org/kijart/docker-subliminal.svg?branch=develop)](https://travis-ci.org/kijart/docker-subliminal)
+
 # Subliminal
 
 Run subliminal inside docker.
+
+Docker image generated daily with the latest version of **Alpine Linux** and **subliminal**: https://hub.docker.com/r/kijart/subliminal.
 
 ## Docker setup
 
